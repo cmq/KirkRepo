@@ -8,3 +8,4 @@ echo 'Time for a conflict.';
 echo 'Mac on bottom';
 
 echo 'master conflict';
+echo 'branch on bottom';
