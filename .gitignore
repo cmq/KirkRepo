@@ -1,0 +1,4 @@
+# Ignore Zend Studio / Eclipse stuff
+.buildpath
+.project
+.settings
